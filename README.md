@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fernando Rubio
 - 👀 I’m interested in web, mobile (android) and hybrid technologies,  I've used technologies like Javascript, Java, CSS3, HTML5, PHP, MongoDB, PostgreSQL, MySQL, Android and NodeJS.
-- 🌱 I’m currently learning Android.
+- 🌱 I’m currently learning Android and AJAX.
 
 - 📫 You can reach me on my website http://fernandorubio.epizy.com
 

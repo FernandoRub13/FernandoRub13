@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Fernando Rubio
-### - 👀 I’m interested in web, mobile and hybrid technologies,  I've used technologies like Javascript, Java, CSS3, HTML5, PHP, MongoDB, PostgreSQL, MySQL, Express, NodeJS, Spring Boot, Redux and a little of Android.
-### - 🌱 I’m currently learning React.
+### - 👀 I’m interested in web, mobile and hybrid technologies,  I've used technologies like Javascript, Java, CSS3, HTML5, PHP, MongoDB, PostgreSQL, MySQL, Express, NodeJS, Spring Boot, Redux, Vue and a little of Android.
+### - 🌱 I’m currently learning Vue.
 
 ### - 📫 You can reach me on my website http://fernandorubio.epizy.com
 
